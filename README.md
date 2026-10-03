@@ -30,27 +30,6 @@ Computer Engineer and **Software Developer** with experience in backend developm
 
 <br>
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,pytorch,tensorflow,git,github,postman,visualstudio,vscode" />
-  <br><br>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Backend:</b> ASP.NET Core • C# • REST APIs • Entity Framework Core • LINQ
-  <br>
-  <b>Data:</b> MSSQL • MySQL
-  <br>
-  <b>AI / ML:</b> PyTorch • TensorFlow • Scikit-learn • Hugging Face • NLP • LLMs
-  <br>
-  <b>Engineering:</b> SOLID • Clean Code • Design Patterns • Dependency Injection
-</p>
-<br>
-
 ## 🚀 Selected Projects
 
 <table>
@@ -158,20 +137,12 @@ Desktop application designed to manage hotel reservation and operational process
 
 <br>
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=beyzaguven&hide_border=true&area=true"
-    width="100%"
-    alt="Beyza Güven's GitHub Activity Graph"
-  />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=beyzaguven&hide_border=true"
-    alt="Beyza Güven's GitHub Streak"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -179,22 +150,11 @@ Desktop application designed to manage hotel reservation and operational process
 
 ## 📫 Contact
 
-<p align="center">
-  Interested in <b>Backend Engineering</b>,
-  <b>Software Architecture</b> and the intersection of
-  <b>traditional backend systems with modern AI technologies.</b>
-</p>
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/beyza-güven-286892300">
     <img src="https://img.shields.io/badge/LinkedIn-Beyza%20Güven-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:beeyzaguvenn@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-<p align="center">
-  <i>Building maintainable software and exploring intelligent systems.</i>
 </p>
