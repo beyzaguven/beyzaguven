@@ -34,19 +34,22 @@ Computer Engineer and **Software Developer** focused on building reliable, maint
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,mysql,pytorch,tensorflow,docker,git,github,postman,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,pytorch,tensorflow,git,github,postman,visualstudio,vscode" />
+  <br><br>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>Backend:</b> ASP.NET Core • REST APIs • Entity Framework Core • LINQ
+  <b>Backend:</b> ASP.NET Core • C# • REST APIs • Entity Framework Core • LINQ
   <br>
-  <b>Data:</b> MSSQL • MySQL • PostgreSQL
+  <b>Data:</b> MSSQL • MySQL
   <br>
   <b>AI / ML:</b> PyTorch • TensorFlow • Scikit-learn • Hugging Face • NLP • LLMs
   <br>
   <b>Engineering:</b> SOLID • Clean Code • Design Patterns • Dependency Injection
 </p>
-
 <br>
 
 ## 🚀 Selected Projects
