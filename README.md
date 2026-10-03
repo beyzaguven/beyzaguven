@@ -24,14 +24,14 @@
 
 Computer Engineer and **Software Developer** focused on building reliable, maintainable and intelligent applications.
 
-- ⚙️ Strong foundation in **C#/.NET, ASP.NET Core, REST APIs and relational databases**
-- 💻 Experienced in developing **end-to-end software solutions**, from backend services and data layers to web applications
-- 🤖 Hands-on experience with **Python, Machine Learning, NLP and LLM integration**
-- 🏗️ Interested in **software architecture, clean code and scalable application design**
+- Strong foundation in **C#/.NET, ASP.NET Core, REST APIs and relational databases**
+- Experienced in developing **end-to-end software solutions**, from backend services and data layers to web applications
+- Hands-on experience with **Python, Machine Learning, NLP and LLM integration**
+- Interested in **software architecture, clean code and scalable application design**
 
 <br>
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,pytorch,tensorflow,git,github,postman,visualstudio,vscode" />
@@ -59,18 +59,18 @@ Computer Engineer and **Software Developer** focused on building reliable, maint
 
 <td width="50%" valign="top">
 
-### 🧠 Steam Review Intelligence
+### Steam Review Intelligence
 
 AI-powered review analysis and summarization platform for processing large volumes of unstructured game reviews.
 
 **Highlights**
 
-- 🎮 355 video games
-- 💬 1,500+ user reviews
-- 🧠 Sentiment analysis
-- ✨ LLM-based summarization
-- ⚡ Asynchronous processing
-- 📦 Batch data pipelines
+- 355 video games
+- 1,500+ user reviews
+- Sentiment analysis
+- LLM-based summarization
+- Asynchronous processing
+- Batch data pipelines
 
 **Tech Stack**
 
@@ -81,18 +81,18 @@ AI-powered review analysis and summarization platform for processing large volum
 
 <td width="50%" valign="top">
 
-### 🏢 Öztürk Granit Platform
+### Öztürk Granit Platform
 
 Production-oriented corporate web platform developed using ASP.NET Core MVC.
 
 **Highlights**
 
-- 🌍 Multi-language support
-- 🔀 Dynamic routing
-- 📝 Content management
-- 🏗️ Layered architecture
-- 📦 Repository & Service patterns
-- 🗄️ Relational database integration
+- Multi-language support
+- Dynamic routing
+- Content management
+- Layered architecture
+- Repository & Service patterns
+- Relational database integration
 
 **Tech Stack**
 
@@ -113,17 +113,17 @@ Production-oriented corporate web platform developed using ASP.NET Core MVC.
 
 <td width="50%" valign="top">
 
-### 🧬 Tumor Classification
+### Tumor Classification
 
 Deep Learning based breast tumor classification system developed as my Computer Engineering graduation thesis.
 
 **Highlights**
 
-- 🩻 Mammography image processing
-- 🧠 CNN architectures
-- ⚙️ Model training & optimization
-- 📊 F1-score evaluation
-- 📈 Accuracy & loss analysis
+- Mammography image processing
+- CNN architectures
+- Model training & optimization
+- F1-score evaluation
+- Accuracy & loss analysis
 
 **Tech Stack**
 
@@ -134,18 +134,18 @@ Deep Learning based breast tumor classification system developed as my Computer 
 
 <td width="50%" valign="top">
 
-### 🏨 Hotel Management System
+### Hotel Management System
 
 Desktop application designed to manage hotel reservation and operational processes.
 
 **Highlights**
 
-- 🛎️ Reservation management
-- 👥 Customer management
-- 🏠 Room management
-- 💳 Billing workflows
-- 📊 Reporting
-- 🗄️ Relational database design
+- Reservation management
+- Customer management
+- Room management
+- Billing workflows
+- Reporting
+- Relational database design
 
 **Tech Stack**
 
@@ -178,7 +178,7 @@ Desktop application designed to manage hotel reservation and operational process
 
 <br>
 
-## 🤝 Let's Connect
+## 📫 Contact
 
 <p align="center">
   Interested in <b>Backend Engineering</b>,
@@ -193,17 +193,9 @@ Desktop application designed to manage hotel reservation and operational process
   <a href="mailto:beeyzaguvenn@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/beyzaguven">
-    <img src="https://img.shields.io/badge/GitHub-beyzaguven-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
-
-<p align="center">
-  <b>Backend Engineering • Software Architecture • AI Integration</b>
-</p>
-
 <p align="center">
   <i>Building maintainable software and exploring intelligent systems.</i>
 </p>
