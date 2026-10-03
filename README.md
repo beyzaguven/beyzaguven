@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beyza Güven</h1>
 
 <h3 align="center">
-  Backend Developer • Computer Engineer • AI Integration
+  Junior Software Developer | .NET • C# • AI Integration • Machine Learning
 </h3>
 
 <p align="center">
@@ -22,77 +22,29 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Engineering graduate** focused on backend development, software architecture and AI-integrated applications.
+Computer Engineer and **Software Developer** focused on building reliable, maintainable and intelligent applications.
 
-My primary development stack is **C# and the .NET ecosystem**, where I work with **ASP.NET Core, RESTful APIs, Entity Framework Core, relational databases and layered architectures**.
-
-Alongside backend engineering, I have hands-on experience with **Python, Machine Learning, NLP and Large Language Models**, with a particular interest in integrating AI capabilities into real-world software systems.
-
-I care about building **clean, maintainable and scalable software** by applying engineering principles such as **OOP, SOLID, Design Patterns, Dependency Injection and Clean Code**.
-
-<br>
-
-## ⚡ Developer Profile
-
-```text
-🎓 Computer Engineering       Düzce University
-⚙️ Backend Development       C# • .NET • ASP.NET Core
-🌐 API Development           REST • HTTP • JSON
-🗄️ Database Engineering      MSSQL • MySQL • PostgreSQL
-🏗️ Software Architecture     Layered • N-Tier • Repository • DI
-🤖 AI & Machine Learning     Python • PyTorch • TensorFlow • LLM
-```
+- ⚙️ Strong foundation in **C#/.NET, ASP.NET Core, REST APIs and relational databases**
+- 💻 Experienced in developing **end-to-end software solutions**, from backend services and data layers to web applications
+- 🤖 Hands-on experience with **Python, Machine Learning, NLP and LLM integration**
+- 🏗️ Interested in **software architecture, clean code and scalable application design**
 
 <br>
 
 ## 🛠️ Tech Stack
 
-### Backend & Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,mysql,pytorch,tensorflow,docker,git,github,postman,visualstudio,vscode" />
 </p>
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-8A2BE2?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-Large_Language_Models-6C63FF?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
-
-### Architecture & Engineering
-
-![OOP](https://img.shields.io/badge/OOP-2C3E50?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-34495E?style=flat-square)
-![Clean Code](https://img.shields.io/badge/Clean_Code-27AE60?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-8E44AD?style=flat-square)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-2980B9?style=flat-square)
-![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-E67E22?style=flat-square)
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode,postman" />
+<p align="center">
+  <b>Backend:</b> ASP.NET Core • REST APIs • Entity Framework Core • LINQ
+  <br>
+  <b>Data:</b> MSSQL • MySQL • PostgreSQL
+  <br>
+  <b>AI / ML:</b> PyTorch • TensorFlow • Scikit-learn • Hugging Face • NLP • LLMs
+  <br>
+  <b>Engineering:</b> SOLID • Clean Code • Design Patterns • Dependency Injection
 </p>
 
 <br>
@@ -204,124 +156,22 @@ Desktop application designed to manage hotel reservation and operational process
 
 <br>
 
-## 🧩 Engineering Focus
-
-```text
-Backend Engineering
-│
-├── ASP.NET Core
-├── RESTful API Design
-├── Entity Framework Core
-├── Middleware Development
-├── Relational Databases
-└── Query Optimization
-
-Software Architecture
-│
-├── Layered Architecture
-├── N-Tier Architecture
-├── Dependency Injection
-├── Repository Pattern
-├── SOLID Principles
-└── Design Patterns
-
-AI Integration
-│
-├── Large Language Models
-├── Natural Language Processing
-├── Hugging Face Transformers
-├── Machine Learning
-├── Deep Learning
-└── AI-powered Backend Services
-```
-
-<br>
-
-## 💼 What I Work With
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <b>Backend</b>
-  <br><br>
-  ASP.NET Core<br>
-  Web API<br>
-  Entity Framework<br>
-  Middleware
-</td>
-
-<td align="center" width="25%">
-  <b>Architecture</b>
-  <br><br>
-  SOLID<br>
-  Clean Code<br>
-  Design Patterns<br>
-  Dependency Injection
-</td>
-
-<td align="center" width="25%">
-  <b>Data</b>
-  <br><br>
-  MSSQL<br>
-  MySQL<br>
-  PostgreSQL<br>
-  RDBMS
-</td>
-
-<td align="center" width="25%">
-  <b>AI</b>
-  <br><br>
-  LLM<br>
-  NLP<br>
-  PyTorch<br>
-  TensorFlow
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 GitHub Overview
+## 📈 GitHub Activity
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=beyzaguven&show_icons=true&hide_border=true&rank_icon=github"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaguven&layout=compact&hide_border=true&langs_count=8"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=beyzaguven&hide_border=true&area=true"
+    width="100%"
+    alt="Beyza Güven's GitHub Activity Graph"
   />
 </p>
-
-<br>
-
-## 🔭 Current Focus
 
 <p align="center">
-  <b>.NET Backend Development</b>
-  &nbsp; • &nbsp;
-  <b>Software Architecture</b>
-  &nbsp; • &nbsp;
-  <b>AI Integration</b>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=beyzaguven&hide_border=true"
+    alt="Beyza Güven's GitHub Streak"
+  />
 </p>
-
-```text
-                    BACKEND ENGINEERING
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-         .NET ECOSYSTEM            AI INTEGRATION
-              │                         │
-       ASP.NET Core                    LLMs
-       REST APIs                       NLP
-       EF Core                         ML
-       Databases                 Intelligent Services
-              │                         │
-              └────────────┬────────────┘
-                           │
-                  INTELLIGENT BACKENDS
-```
 
 <br>
 
