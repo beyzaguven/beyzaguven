@@ -5,8 +5,7 @@
 </h3>
 
 <p align="center">
-  Building maintainable backend systems and intelligent software solutions with
-  <b>.NET, Data & AI</b>.
+  Building practical software solutions with <b>.NET, C# and modern technologies.</b>
 </p>
 
 <p align="center">
@@ -22,12 +21,12 @@
 
 ## 👩‍💻 About Me
 
-Computer Engineer and **Software Developer** focused on building reliable, maintainable and intelligent applications.
+Computer Engineer and **Software Developer** with experience in backend development, web applications and AI-integrated solutions.
 
-- Strong foundation in **C#/.NET, ASP.NET Core, REST APIs and relational databases**
-- Experienced in developing **end-to-end software solutions**, from backend services and data layers to web applications
-- Hands-on experience with **Python, Machine Learning, NLP and LLM integration**
-- Interested in **software architecture, clean code and scalable application design**
+- Working with **C#, .NET, ASP.NET Core, REST APIs and relational databases**
+- Experience in developing **backend services, middleware integrations and web applications**
+- Built projects using **Python, Machine Learning, NLP and Large Language Models**
+- Familiar with **SOLID principles, Design Patterns, Dependency Injection and Clean Code**
 
 <br>
 
